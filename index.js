@@ -1,5 +1,5 @@
 var crypto 		= require("crypto"),
-	querystring = require("querystring");
+	querystring = require("querystring-browser");
 
 (function() {
 	"use strict";
